@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ### 3. Ejecutar la API
 
-python app.py
+python faker-APIS.py
 
 ### 4. Probar los Endpoints
 
